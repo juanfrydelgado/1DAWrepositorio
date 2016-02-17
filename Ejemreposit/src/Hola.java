@@ -6,6 +6,7 @@ public class Hola {
    //hshshs
 		//fdsfsdfsfdsf
 		//modificado desde el remoto
+		//nuevo
 	}
 
 }
